@@ -51,21 +51,8 @@ Dedicated and detail-oriented **Full-Stack Developer** with strong proficiency i
 
 ## 🎓 Education & Training
 * **Bachelor of Engineering (B.E.)** – Bharathidasan Engineering College (Anna University)
-  * *Cumulative CGPA:* **8.03 / 10**
 * **Full-Stack Technical Training** – Accord Info Matrix
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suriyanath-23&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyanath-23&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=suriyanath-23&icon=0&color=0" alt="Visitor Count" />
-</p>
