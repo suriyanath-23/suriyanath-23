@@ -19,6 +19,7 @@ Dedicated and detail-oriented **Full-Stack Developer** with strong proficiency i
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,9 +32,11 @@ Dedicated and detail-oriented **Full-Stack Developer** with strong proficiency i
 
 ## 🚀 Key Projects
 
-### 💰 [LedgerLite – Simple Expense Tracker](https://github.com/suriyanath-23/LEDGERLITE_EXPENSE_TRACKER)
-* **Stack:** Python, Flask, MySQL, JavaScript, HTML5, CSS3
-* Built a lightweight, full-stack financial application with real-time transaction logging, category management, dynamic dashboard calculations, and persistent SQL database storage.
+### 💰 LedgerLite – Personal Expense Tracker
+* **Stack:** Python (FastAPI), MySQL, JavaScript (ES6+), HTML5, CSS3
+* Built a full-stack personal finance application enabling real-time income and expense tracking with encrypted user authentication (`SHA-256`).
+* Integrated asynchronous REST APIs and dynamic SQL aggregate queries to compute live balances, income streams, and total expenditures.
+* Implemented browser state caching (`localStorage`) for instant dashboard metric rendering and custom multi-attribute transaction filters (date, type, and category).
 
 ### 📦 Product Stock & Warehouse Management System
 * **Stack:** Python, MySQL, HTML5, CSS3 (Grid & Flexbox)
@@ -52,7 +55,3 @@ Dedicated and detail-oriented **Full-Stack Developer** with strong proficiency i
 ## 🎓 Education & Training
 * **Bachelor of Engineering (B.E.)** – Bharathidasan Engineering College (Anna University)
 * **Full-Stack Technical Training** – Accord Info Matrix
-
-
-
-
