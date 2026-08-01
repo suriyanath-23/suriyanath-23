@@ -1,4 +1,4 @@
-# Hi there, I'm Suriyanath Saravanan 👋
+# Hi there, I'm Suriyanath S
 
 ### 👨‍💻 Full-Stack Web Developer
 📍 **Tirupathur, Tamil Nadu, India** | 📧 [suriyanathharish@gmail.com](mailto:suriyanathharish@gmail.com) | 📞 +91 8678994446
